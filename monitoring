@@ -1,0 +1,20 @@
+"SNAPSHOT 0: 2017-03-19 23:16:00.691916:"{"IO information": "sdiskio(read_count=88575, write_count=804912, read_bytes=1832369152, write_bytes=12268944384, read_time=2527660, write_time=23156496, read_merged_count=5501, write_merged_count=222650, busy_time=2258180)", "overall cpu load": "27.8", "overall memory usage": "3758MB", "overall virtual memory usage": "2326MB", "network information": "snetio(bytes_sent=2066791566, bytes_recv=1648763774, packets_sent=2290722, packets_recv=7647388, errin=0, errout=0, dropin=0, dropout=0)"}
+
+"SNAPSHOT 1: 2017-03-19 23:16:10.692996:"{"IO information": "sdiskio(read_count=88575, write_count=804972, read_bytes=1832369152, write_bytes=12269616128, read_time=2527660, write_time=23156686, read_merged_count=5501, write_merged_count=222674, busy_time=2258278)", "overall cpu load": "27.6", "overall memory usage": "3758MB", "overall virtual memory usage": "2326MB", "network information": "snetio(bytes_sent=2066850679, bytes_recv=1648779243, packets_sent=2290805, packets_recv=7647526, errin=0, errout=0, dropin=0, dropout=0)"}
+
+"SNAPSHOT 2: 2017-03-19 23:16:20.694060:"{"IO information": "sdiskio(read_count=88575, write_count=805032, read_bytes=1832369152, write_bytes=12269927424, read_time=2527660, write_time=23156916, read_merged_count=5501, write_merged_count=222690, busy_time=2258319)", "overall cpu load": "27.7", "overall memory usage": "3758MB", "overall virtual memory usage": "2326MB", "network information": "snetio(bytes_sent=2066912939, bytes_recv=1648800517, packets_sent=2290932, packets_recv=7647720, errin=0, errout=0, dropin=0, dropout=0)"}
+
+SNAPSHOT 0: 2017-03-19 23:16:50.922803:
+IO information: sdiskio(read_count=88575, write_count=805473, read_bytes=1832369152, write_bytes=12274809856, read_time=2527660, write_time=23158790, read_merged_count=5501, write_merged_count=222805, busy_time=2258912)
+overall cpu load: 31.9
+overall memory usage: 3758MB
+overall virtual memory usage: 2326MB
+network information: snetio(bytes_sent=2069268642, bytes_recv=1648977898, packets_sent=2293511, packets_recv=7650039, errin=0, errout=0, dropin=0, dropout=0)
+
+SNAPSHOT 1: 2017-03-19 23:17:00.923884:
+IO information: sdiskio(read_count=88575, write_count=805518, read_bytes=1832369152, write_bytes=12275342336, read_time=2527660, write_time=23158870, read_merged_count=5501, write_merged_count=222810, busy_time=2258960)
+overall cpu load: 30.0
+overall memory usage: 3758MB
+overall virtual memory usage: 2326MB
+network information: snetio(bytes_sent=2069432334, bytes_recv=1649007717, packets_sent=2293835, packets_recv=7650411, errin=0, errout=0, dropin=0, dropout=0)
+
